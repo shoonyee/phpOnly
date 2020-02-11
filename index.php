@@ -1,6 +1,6 @@
 <?php
 
 echo "Hello World!";
-echo "<br>Yes";
+echo "<br>PHP from gitHub";
 
 ?>
